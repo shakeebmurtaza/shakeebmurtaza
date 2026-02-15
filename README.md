@@ -39,7 +39,6 @@ At ÉTS, I contribute both to methodological research and to the design of large
 * Authentication infrastructure migration (LDAP-based) with rollback-safe cutover
 * Monitoring and reliability engineering via Prometheus and custom automation
 
-This dual research–systems perspective enables rigorous experimentation under controlled and reproducible computational settings.
 ---
 
 Montreal, Canada
